@@ -1,0 +1,8 @@
+{
+  "audioCues.chatResponsePending": "auto",
+  "audioCues.lineHasBreakpoint": "auto",
+  "audioCues.lineHasError": "auto",
+  "audioCues.lineHasFoldedArea": "auto",
+  "audioCues.lineHasInlineSuggestion": "off",
+  "audioCues.lineHasWarning": "off"
+}
