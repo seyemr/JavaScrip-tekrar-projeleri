@@ -17,5 +17,4 @@
 |   #   | Project                                                                                                | Live Demo                                                                              |
 | :---: | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
 |  01   | [Animasyonlu Kartlar](https://github.com/seyemr/JavaScrip-tekrar-projeleri/tree/main/AnimasyonCartlar) | [Live Demo](https://65993f9ba11f67c49c29458e--stupendous-rolypoly-d0af72.netlify.app/) |
-
-|  02   | [Animasyonlu Kartlar](https://github.com/seyemr/JavaScrip-tekrar-projeleri/tree/main/AnimasyonCartlar) | [Live Demo](https://659a2db15fbe694bfa78c2e2--boisterous-dodol-531f00.netlify.app/) |
+|  02   | [Animasyonlu Kartlar](https://github.com/seyemr/JavaScrip-tekrar-projeleri/tree/main/yazitura)         | [Live Demo](https://659a2db15fbe694bfa78c2e2--boisterous-dodol-531f00.netlify.app/)    |
