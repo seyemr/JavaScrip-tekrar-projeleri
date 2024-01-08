@@ -1,11 +1,5 @@
 # Yeni google
 
-# video 
-
-
-<img src="img/google.mp4">
-
-
 
 # Çalışır link
 
