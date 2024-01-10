@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300; 400; 500; 600; 700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(27, 36, 43);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 42rem;
+    padding: 30px 22px;
+}
+
+.container h1 {
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.searchBox {
+    background-color: rgb(92, 28, 28);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid rgb(128, 128, 128);
+    border-radius: 6px;
+}
+
+.searchBox input {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    width: 90%;
+    color: #fff;
+    font-size: 15px;
+}
+
+.searchBox button {
+    background-color: rgb(0, 135, 253);
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: 300ms all ease
+}
+
+.searchBox button:hover {
+    background-color: rgb(0, 0, 255);
+}
+
+.details {
+
+    margin-top: 20px;
+    background-color: #161922;
+    padding: 20px 25px;
+    border: 1px solid #999;
+    border-radius: 6px;
+    display: none;
+}
+
+.profile {
+    display: flex;
+}
+
+.profile-image img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+
+.profile-details {
+    padding: 20px;
+    width: 25rem;
+}
+
+.username {
+    font-size: 13px;
+    color: teal;
+}
+
+.bio {
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+
+.stats {
+    background-color: #20232c;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0px;
+    margin-top: 20px;
+    text-align: center;
+    border: 1px solid #999;
+    border-radius: 6px;
+}
+
+/* .media {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.media p {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+} */
