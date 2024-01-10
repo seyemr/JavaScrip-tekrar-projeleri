@@ -11,7 +11,7 @@
 
 main.js sayfasında bulunan clasName = stats olan divin içine isteyen aşağıdaki kodları ekleyebilir
 
-<!-- <div className="media">
+ <div className="media">
     <p>
         <span className="media-value>
             ${data.location ||"BilgiYok"}
@@ -32,4 +32,4 @@ main.js sayfasında bulunan clasName = stats olan divin içine isteyen aşağıd
             ${data.company || "Bilgi Yok"}
         </span>
     </p><
-</div> -->
+</div> 
