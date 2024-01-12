@@ -1,0 +1,11 @@
+{
+    "name": "Fenerbahçe",
+    "version": "1.9.0.7",
+    "description":"Bu proje eğitim amaçlı yapılmıştır",
+    "manifest_version": 3,
+    "author":"Seyem Yazılım",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"icons.png"
+    }
+}
