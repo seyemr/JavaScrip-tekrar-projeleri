@@ -1,0 +1,99 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto);
+
+html {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+}
+
+:root {
+    --primary: #007fff;
+    --secondary: #6f7e8c;
+    --hover: #f5f5f5;
+    --text: #212121;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.centering {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: var(--primary);
+}
+
+.box {
+    background-color: white;
+    padding: 24px;
+    padding-top: 12px;
+    border-radius: 16px;
+}
+
+.input__wrapper {
+    position: relative;
+    padding: 15px 0px 0px;
+}
+
+.input__field {
+    border: none;
+    border-bottom: 2px solid var(--secondary);
+    outline: none;
+    font-size: 16px;
+    color: var(--text);
+    padding: 4px 0px;
+    padding-right: 32px;
+    background-color: transparent;
+    transition: border-color 0.2s;
+}
+
+.input__field:placeholder {
+    color: transparent;
+}
+
+.input__field:placeholder-shown~.input__label {
+    font-size: 16px;
+    cursor: pointer;
+    color: var(--secondary);
+    top: 20px;
+}
+
+label,
+.input__field:focus~.input__label {
+    position: absolute;
+    top: 0;
+    display: block;
+    font-size: 14px;
+    left: -1px;
+    color: var(--secondary);
+    transition: 0.3s;
+}
+
+.input__field:focus~.input__label {
+    color: var(--primary);
+}
+
+.input__field:focus {
+    border-bottom: 2px solid var(--primary);
+}
+
+.input__icon {
+    position: absolute;
+    right: -14px;
+    bottom: -14px;
+    width: 26px;
+    height: 26px;
+    padding: 2px;
+    transform: translate(-50%, -50%);
+    transform-origin: center;
+    cursor: pointer;
+}
+
+.input__icon:hover {
+    border-radius: 50%;
+    background-color: var(--hover);
+}
