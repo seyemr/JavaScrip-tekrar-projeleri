@@ -24,4 +24,4 @@
 |  06   | [Google Eklenti](https://github.com/seyemr/JavaScrip-tekrar-projeleri/tree/main/googleEklenti)            | [Live Demo](https://youtu.be/HF56Tq_dcnA/)                                             |
 |  07   | [Çok Adımlı Form](https://github.com/seyemr/JavaScrip-tekrar-projeleri/tree/main/CokAd%C4%B1ml%C4%B1Form) | [Live Demo](https://65a2a1ab389b9ccca89b5d3c--majestic-sorbet-9004eb.netlify.app/)     |
 
-|  07   | [Özel İnput](https://github.com/seyemr/JavaScrip-tekrar-projeleri/tree/main/CokAd%C4%B1ml%C4%B1Form) | [Live Demo](https://66b8a80ff205a43fa94fe322--radiant-klepon-a2f484.netlify.app/)     |
+|  07   | [Özel İnput](https://github.com/seyemr/JavaScrip-tekrar-projeleri/tree/main/ozel-Input) | [Live Demo](https://66b8a80ff205a43fa94fe322--radiant-klepon-a2f484.netlify.app/)     |
